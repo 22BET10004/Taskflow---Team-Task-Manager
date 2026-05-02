@@ -1,0 +1,9 @@
+[build]
+buildCommand = "npm run build && cd backend && npm install"
+
+[deploy]
+startCommand = "npm start"
+healthcheckPath = "/api/health"
+healthcheckTimeout = 300
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 10
