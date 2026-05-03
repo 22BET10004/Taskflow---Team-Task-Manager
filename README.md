@@ -163,7 +163,13 @@ cd frontend && npm run dev
 
 ## 📸 Screenshots
 
-> Add screenshots of your dashboard, board view, and task modal here.
+<img width="1913" height="901" alt="Screenshot 2026-05-03 151359" src="https://github.com/user-attachments/assets/af2ff53e-0de1-4ef3-bf2f-50aba9558d47" />
+<img width="1919" height="911" alt="Screenshot 2026-05-03 153902" src="https://github.com/user-attachments/assets/d62a43cb-63dd-4817-a5a4-15ec922b6eac" />
+<img width="1919" height="897" alt="Screenshot 2026-05-03 153948" src="https://github.com/user-attachments/assets/12ee6121-e637-4440-98f0-2531ed574e80" />
+<img width="1910" height="904" alt="Screenshot 2026-05-03 154018" src="https://github.com/user-attachments/assets/ab8c5368-0a7e-493b-80b0-cc99f3f0b4f8" />
+<img width="1919" height="909" alt="Screenshot 2026-05-03 154046" src="https://github.com/user-attachments/assets/35c46eb1-6731-4ea5-a58a-60d9fec61545" />
+<img width="1919" height="909" alt="Screenshot 2026-05-03 154113" src="https://github.com/user-attachments/assets/485c9fc5-3bc1-4a76-a3b1-bf9874ee6181" />
+<img width="1919" height="905" alt="Screenshot 2026-05-03 154136" src="https://github.com/user-attachments/assets/1578bf00-e56a-4ced-b65f-c2ec07526ed2" />
 
 ---
 
