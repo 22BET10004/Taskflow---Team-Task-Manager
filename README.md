@@ -100,8 +100,8 @@ taskflow/
 
 ```bash
 # Clone
-git clone <your-repo>
-cd taskflow
+git clone 
+cd taskflowhttps://github.com/22BET10004/Taskflow---Team-Task-Manager
 
 # Install backend deps
 cd backend && npm install
